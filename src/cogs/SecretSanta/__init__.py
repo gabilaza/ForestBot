@@ -1,0 +1,3 @@
+
+from .secretsanta import SecretSantaCog
+
